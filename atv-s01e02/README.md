@@ -1,6 +1,7 @@
 # Classificação de Hardware com várias CPUs
 
-Conceitos de hardware
+## Conceitos de hardware
+
 Todos os sistemas distribuídos consistem em várias CPUs, organizadas de várias maneiras, especialmente em relação a:
 - A maneira de interconectá-los.
 - Os esquemas de comunicação utilizados.
