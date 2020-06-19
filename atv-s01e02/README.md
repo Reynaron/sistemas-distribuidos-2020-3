@@ -9,21 +9,25 @@ Existem vários esquemas de classificação para sistemas de computação com v�
 - Um dos mais conhecidos é o "Flynn Taxonomy":
 - Considera como características essenciais o número de fluxos de instruções e o número de fluxos de dados.
 - A classificação inclui equipamentos SISD, SIMD, MISD e MIMD.
+
 SISD (dados únicos de instrução única: um fluxo de instruções e um fluxo de dados):
 - Eles têm um único processador.
+
 SIMD (dados múltiplos de instrução única: um fluxo de instrução e vários fluxos de dados):
 - Refere-se ao pedido de processadores com uma unidade de instrução que:
-- Procure uma instrução.
-- Instrui várias unidades de dados a serem executadas em paralelo, cada uma com seus próprios dados.
-• Eles são úteis para cálculos que repetem os mesmos cálculos em vários conjuntos de dados.
+  - Procure uma instrução.
+  - Instrui várias unidades de dados a serem executadas em paralelo, cada uma com seus próprios dados.
+  - Eles são úteis para cálculos que repetem os mesmos cálculos em vários conjuntos de dados.
+
 MISD (dados únicos de instruções múltiplas: um fluxo de várias instruções e um único fluxo de dados):
-• Não aparece na prática.
+- Não aparece na prática.
+
 MIMD (dados múltiplos de instruções múltiplas: um grupo de computadores independentes, cada um com seu próprio programa, programa e contador de dados):
-• Todos os sistemas distribuídos são desse tipo.
+- Todos os sistemas distribuídos são desse tipo.
 Uma prévia da classificação de Flynn inclui a divisão de computadores MIMD em dois grupos:
-• Multiprocessadores: eles compartilham memória:
+- Multiprocessadores: eles compartilham memória:
 Processadores diferentes compartilham o mesmo espaço de endereço virtual.
-• Multicomputadores: eles não têm memória compartilhada:
+- Multicomputadores: eles não têm memória compartilhada:
   - Ex: grupo de PCs conectados através de uma rede.
 Cada uma das categorias indicadas pode ser classificada de acordo com a arquitetura da rede de interconexão em:
 - Esquema de bus:
