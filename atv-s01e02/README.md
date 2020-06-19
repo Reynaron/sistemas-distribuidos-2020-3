@@ -25,7 +25,7 @@ Processadores diferentes compartilham o mesmo espaço de endereço virtual.
 • Multicomputadores: eles não têm memória compartilhada:
   - Ex: grupo de PCs conectados através de uma rede.
 Cada uma das categorias indicadas pode ser classificada de acordo com a arquitetura da rede de interconexão em:
-- Esquema de ônibus:
+- Esquema de bus:
 - Existe uma única rede, barramento, cabo ou outro meio que conecta todas as máquinas:
   - Por exemplo: televisão a cabo.
 - Diagrama com interruptor:
@@ -33,12 +33,12 @@ Cada uma das categorias indicadas pode ser classificada de acordo com a arquitet
   - Existem várias conexões e vários padrões de conexão.
   - As mensagens passam pela mídia de conexão.
   - A comutação é explicitamente decidida em cada estágio para rotear a mensagem ao longo de um dos cabos de saída.
- Por exemplo: o sistema telefônico público global.
-• Outro aspecto da classificação considera o acoplamento entre as equipes:
-• Sistemas fortemente acoplados:
-o O atraso no envio de uma mensagem de um computador para outro é curto e a taxa de transmissão é alta.
-o Eles geralmente são usados como sistemas paralelos.
-• Sistemas fracamente acoplados:
-o O atraso das mensagens entre as máquinas é grande e a taxa de transmissão é baixa.
-o Eles geralmente são usados como sistemas distribuídos.
+  - Por exemplo: o sistema telefônico público global.
+- Outro aspecto da classificação considera o acoplamento entre as equipes:
+  - Sistemas fortemente acoplados:
+  - O atraso no envio de uma mensagem de um computador para outro é curto e a taxa de transmissão é alta.
+  - Eles geralmente são usados como sistemas paralelos.
+  - Sistemas fracamente acoplados:
+  - O atraso das mensagens entre as máquinas é grande e a taxa de transmissão é baixa.
+  - Eles geralmente são usados como sistemas distribuídos.
 Os multiprocessadores geralmente são mais fortemente acoplados que os multicomputadores.
