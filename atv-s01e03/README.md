@@ -95,7 +95,7 @@ Uma infraestrutura capaz de fornecer para as aplicações caminhos para interagi
   - fornecer acesso a tecnologias distintas
 
 
-**Exemplos de Middleware
+**Exemplos de Middleware**
 
 - Entre tantos, são exemplos de Middleware os grupos de tecnologias abaixo:
 
