@@ -1,4 +1,5 @@
-Tipos de Sistemas Distribuídos
+# Tipos de Sistemas Distribuídos e Middleware
+
 - Podemos categorizar os Sistemas Distribuídos em:
 - Sistemas de Computação Distribuídos; 
 - Sistemas de Informação Distribuídos;
