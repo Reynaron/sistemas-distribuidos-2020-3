@@ -80,3 +80,28 @@ Sistemas de Computação Distribuídos
  ## - Middleware
  
  - É utilizado para mover ou transportar informações e dados entre programas de diferentes protocolos de comunicação, plataformas e dependências do sistema operacional. É geralmente constituído por módulos dotados com APIs de alto nível que proporcionam a sua integração com aplicações desenvolvidas em diversas linguagens de programação e interfaces de baixo nível que permitem a sua independência relativamente ao dispositivo. Seu objetivo é mascarar a heterogeneidade e fornecer um modelo de programação mais produtivo para os programadores de aplicativos. É composto por um conjunto de processos ou objetos em um grupo de computadores, que interagem entre si de forma a implementar comunicação e oferecer suporte para compartilhamento de recursos e aplicativos distribuídos. O Middleware é a designação genérica utilizada para referir aos sistemas de software que se executam entre as aplicações e os sistemas operacionais. O objetivo do middleware é facilitar o desenvolvimento de aplicações, tipicamente as distribuídas, assim como facilitar a integração de sistemas legados ou desenvolvidos de forma não integrada automática. 
+ 
+## A Necessidade
+
+Uma infraestrutura capaz de fornecer para as aplicações caminhos para interagir com as várias plataformas, sistemas e fontes de dados de um parque de TI Enterprise. Para integração em ambientes heterogêneos e distribuídos, são necessárias camadas de software que possibilitam
+
+  - comunicação entre plataformas e aplicações
+  - uso de API bem definida e aberta
+  - uso de protocolos bem definidos e abertos
+  - ser utilizadas em múltiplas plataformas
+  - manter separação de camadas para segurança e portabilidade
+  - recuperar dados e consolidar a partir de múltiplas fontes
+  - fornecer acesso a tecnologias distintas
+
+
+**Exemplos de Middleware
+
+- Entre tantos, são exemplos de Middleware os grupos de tecnologias abaixo:
+
+  - Servidores de Aplicação Java EE
+  - Business intelligence
+  - BPM (Business process management)
+  - Enterprise Serial Bus
+  - Mensageria
+  - BAM (Business activity monitoring)
+  - Monitoramento de IT
